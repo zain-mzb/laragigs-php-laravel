@@ -1,0 +1,1 @@
+<h1>zain</h1><?php /**PATH C:\Users\【Egrowth】MUHAMMADZAI\Desktop\all\laravel\laragigs\resources\views/welcome.blade.php ENDPATH**/ ?>
